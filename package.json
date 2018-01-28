@@ -1,0 +1,23 @@
+{
+  "name": "enpenguc-npm-hello",
+  "version": "1.0.0",
+  "description": "npm package publish test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/enpenguc/npm-hello.git"
+  },
+  "keywords": [
+    "npm",
+    "hello world"
+  ],
+  "author": "enpenguc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enpenguc/npm-hello/issues"
+  },
+  "homepage": "https://github.com/enpenguc/npm-hello#readme"
+}
